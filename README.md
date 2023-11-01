@@ -1,3 +1,3 @@
-# profile-generator
+### profile-generator
 
-A university project that was unfinished.
+A website that generates resume-like profiles which can be used as, well, resumes.
